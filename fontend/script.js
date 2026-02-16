@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/employees";
+const API = "https://employee-payroll-1msv.onrender.com/employees";
 
 let employees = [];
 let editId = null;
