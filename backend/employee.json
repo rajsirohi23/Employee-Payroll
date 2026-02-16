@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1771181379402,
+    "name": "Raj",
+    "department": "IT",
+    "basicSalary": 250000
+  },
+  {
+    "id": 1771181577608,
+    "name": "Raj Sirohi",
+    "department": "Civil",
+    "basicSalary": 23456
+  },
+  {
+    "id": 1771217928863,
+    "name": "Erica",
+    "department": "Sales",
+    "basicSalary": 300000
+  },
+  {
+    "id": 1771217963560,
+    "name": "Ekta",
+    "department": "IT",
+    "basicSalary": 12000
+  },
+  {
+    "id": 1771219094014,
+    "name": "Saksham",
+    "department": "sad",
+    "basicSalary": 21314
+  },
+  {
+    "id": 1771219107441,
+    "name": "Aditya",
+    "department": "kph",
+    "basicSalary": 12345
+  },
+  {
+    "id": 1771219128968,
+    "name": "Rohit",
+    "department": "poi",
+    "basicSalary": 900
+  },
+  {
+    "id": 1771219139785,
+    "name": "Soham",
+    "department": "IT",
+    "basicSalary": 80000
+  },
+  {
+    "id": 1771219164634,
+    "name": "Gitesh",
+    "department": "Civil",
+    "basicSalary": 39000
+  },
+  {
+    "id": 1771219216550,
+    "name": "Almas",
+    "department": "IT",
+    "basicSalary": 45000
+  }
+]
