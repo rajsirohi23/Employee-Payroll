@@ -7,8 +7,8 @@ A full-stack web application to manage employee salary records, calculate payrol
 
 ## 🚀 Live Demo
 
-🌐 Frontend: https://your-netlify-link
-⚙️ Backend: https://your-render-link
+🌐 Frontend: https://employee-payrol.netlify.app/
+⚙️ Backend: https://employee-payroll-1msv.onrender.com
 
 ---
 
@@ -126,8 +126,8 @@ OR use Live Server.
 
 Raj Sirohi
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-link
+* GitHub: https://github.com/rajsirohi23
+* LinkedIn: https://www.linkedin.com/in/raj-sirohi-64b330289/
 
 ---
 
