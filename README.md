@@ -105,12 +105,6 @@ OR use Live Server.
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard UI
-
-(Add screenshot here)
-
 ---
 
 ## 🎯 Future Improvements
