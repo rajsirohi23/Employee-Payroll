@@ -10,7 +10,7 @@ app.use(cors());
 const filePath = path.join(__dirname, "employee.json");
 
 
-// ✅ Helper function
+//  Helper function
 const readEmployees = () => {
   if (!fs.existsSync(filePath)) return [];
   const data = fs.readFileSync(filePath);
@@ -22,13 +22,13 @@ const writeEmployees = (data) => {
 };
 
 
-// ✅ GET all employees
+//  GET all employees
 app.get("/employees", (req, res) => {
   res.json(readEmployees());
 });
 
 
-// ✅ POST new employee
+//  POST new employee
 app.post("/employees", (req, res) => {
   const employees = readEmployees();
 
@@ -46,7 +46,7 @@ app.post("/employees", (req, res) => {
 });
 
 
-// ✅ DELETE employee
+//  DELETE employee
 app.delete("/employees/:id", (req, res) => {
   const id = req.params.id;
 
@@ -59,7 +59,7 @@ app.delete("/employees/:id", (req, res) => {
 });
 
 
-// ✅ UPDATE employee
+//  UPDATE employee
 app.put("/employees/:id", (req, res) => {
   const id = req.params.id;
 
@@ -83,7 +83,7 @@ app.put("/employees/:id", (req, res) => {
 });
 
 
-// ✅ Start server
+//  Start server
 app.listen(3000, () => {
   console.log("Server running on port 3000");
 });
